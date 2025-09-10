@@ -1,0 +1,44 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body
+{
+   
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    max-width: 100vh;
+    margin: auto;
+    background: #f2f2f2;
+    border: 1px solid black;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.leads
+{
+    color:rgb(1, 130, 130);
+    font-weight:100;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    letter-spacing:0.1rem ;
+}
+.category 
+{
+    color:rgb(110, 181, 3);
+    font-size: 1.5rem;
+    font-weight: 60;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    margin-top:1rem;
+    margin-bottom: 1rem;  
+}
+.body-div
+{
+    margin-left:5rem;
+
+}
